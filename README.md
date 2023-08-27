@@ -1,6 +1,6 @@
 # Meshroom Pipelines
 
-## Pilelines for [AliceVision Meshroom](https://alicevision.org/#meshroom)
+## Pipelines for [AliceVision Meshroom](https://alicevision.org/#meshroom)
 
 Usage:
 - copy *.mg file(s) to Meshroom's **lib/pipelines** directory
