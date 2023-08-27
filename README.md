@@ -4,7 +4,7 @@
 
 Usage:
 - copy *.mg file(s) to Meshroom's **lib/pipelines** directory
-- start Meshroom then selet pipeline from the **File/New Pipeline** menu
+- start Meshroom then select pipeline from the **File/New Pipeline** menu
 
 Pipelines:
  - photogrammetryFZ.mg
